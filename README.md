@@ -29,6 +29,8 @@ https://github.com/abdullahbakis/order-app.git
 
 2. Open the project in IntelliJ or any Java IDE of your choice.
 3. Run the Main class located in the 
+
+
 ```
 src/main/java/com/abdullahbakis/Main.java
 ```  file.
