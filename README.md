@@ -39,5 +39,5 @@ file.
 
 4. Follow the instructions provided in the console to perform the desired actions.
 
-Licensing
+## Licensing
 This application is licensed under the [MIT License](https://github.com/abdullahbakis/order-app/blob/master/LICENCE).
