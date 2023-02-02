@@ -74,7 +74,7 @@ public class Main {
                 .map(Customer::getName).forEach(System.out::println);
 
 
-        // code to list of the sectors of the companies in which the average invoices for the month of June are below 750
+        // code to list of the sectors of the companies in which the average invoices for the month of June are below 750TL
         System.out.println("\nList of the sectors of the companies in which the average invoices for the month of June are below 750: ");
         Set<String> sectors = orders.stream().filter(s -> s.getDateOfRegistration().getMonth().equals(Month.JUNE))
                 .filter(s -> invoices.stream().filter(i -> i.getOrder().equals(s))
