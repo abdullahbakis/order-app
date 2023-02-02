@@ -23,11 +23,9 @@ List, Set, Map
 * Maven for project management
 ## How to Run
 1. Clone the repository to your local machine: 
-
 ```https://github.com/abdullahbakis/order-app.git```
 2. Open the project in IntelliJ or any Java IDE of your choice.
 3. Run the Main class located in the 
-
 ```src/main/java/com/abdullahbakis/Main.java``` file.
 4. Follow the instructions provided in the console to perform the desired actions.
 
